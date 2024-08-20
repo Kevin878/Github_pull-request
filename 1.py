@@ -6,3 +6,5 @@ def counting_numbers(number):
         print(i)
 
 counting_numbers(5)
+
+print("--" * 80)
