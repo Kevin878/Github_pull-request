@@ -1,10 +1,9 @@
 print("Hello")
 print("Welcome to my Github_Pull-Request test")
 
-def counting_numbers(number):
-    for i in range(0, number, 1):
-        print(i)
 
-counting_numbers(5)
+for i in range(int(input("How many times you want to print Chicken!"))):
+    print("Chicken")
+
 
 print("--" * 80)
