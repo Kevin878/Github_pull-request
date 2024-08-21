@@ -7,3 +7,4 @@ for i in range(int(input("How many times you want to print Chicken!"))):
 
 
 print("--" * 80)
+print("SURPRISE!!!")
